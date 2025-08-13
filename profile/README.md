@@ -1,0 +1,2 @@
+| <a href="https://github.com/autoMirAi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=autoMirAi&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" /></a> | <a href="https://github.com/autoMirAi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoMirAi&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
